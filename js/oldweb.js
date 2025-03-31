@@ -273,7 +273,7 @@
                         </svg>
                     </div>
                     <div class="text-content">
-                        <h3 class="title">View the old website?</h3>
+                        <h3 class="title">View the old website? (This is also a old website, this popup is old)</h3>
                     </div>
                     <button class="view-button">View</button>
                 </div>
